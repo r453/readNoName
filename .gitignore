@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Virtual environment folders
+.env
+.venv
+
+# Pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Credentials and config
+secrets.yaml
+*.pem
+*.key
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+
+# Local sqlite
+*.db
+
+# pip cache
+pip-wheel-metadata/
+
+# coverage
+.coverage
+
+# Notebook checkpoints
+.ipynb_checkpoints/
